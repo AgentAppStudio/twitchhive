@@ -10,3 +10,6 @@ coverage/
 .clau[d]e/
 .DS_Store
 videos/
+.antigravity/
+.agent/
+.claude/
